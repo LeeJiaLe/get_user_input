@@ -1,6 +1,6 @@
 [package]
 name = "get_user_input"
-version = "0.0.2"
+version = "0.1.0"
 license = "MIT OR Apache-2.0"
 authors = ["Deep Sea Lolicon <36293056+LeeJiaLe@users.noreply.github.com>"]
 edition = "2018"
